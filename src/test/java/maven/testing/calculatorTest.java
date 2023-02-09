@@ -5,8 +5,8 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Before;
 import org.junit.Test;
 
-public class CalculatorTest {
-
+public class calculatorTest {
+	
 	Calculator calculator;
 
 	@Before
@@ -39,5 +39,3 @@ public class CalculatorTest {
 	
 
 }
-
-
